@@ -2,9 +2,9 @@
 using namespace std;
 
 int main(){
-int *arr,n;
+int n;
 cin>>n;
-arr[n];
+int arr[n];
 for(int i=1;i<=n;i++){
     cin>>arr[i];
     cout<<arr[i]<<" ";
